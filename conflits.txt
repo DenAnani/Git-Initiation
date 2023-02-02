@@ -2,3 +2,4 @@ jhqd
 djqfh
 test fast forward
 ajout dans dépot distant 
+ajout pour tester merge avec fast-forward
